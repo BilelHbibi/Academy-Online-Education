@@ -7,4 +7,3 @@ Home page:
 ![home1](https://github.com/BilelHbibi/Academy-Online-Education/assets/117475680/3bf38930-ac6a-437d-8471-3bef93b9cddb)
 ![home2](https://github.com/BilelHbibi/Academy-Online-Education/assets/117475680/b37bd556-7a8a-42a2-a33e-c53d572df58f)
 ![home3](https://github.com/BilelHbibi/Academy-Online-Education/assets/117475680/ae504347-cfec-4e45-b98f-d822cb77bea6)
-![home4](https://github.com/BilelHbibi/Academy-Online-Education/assets/117475680/05649dbf-1a19-49ab-b008-fa2f9097bc31)
