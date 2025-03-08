@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Academy-Online-Education-design/static/css/main.59716f93.css",
+    "main.js": "/Academy-Online-Education-design/static/js/main.3b1d0211.js",
+    "static/js/787.e2ffc826.chunk.js": "/Academy-Online-Education-design/static/js/787.e2ffc826.chunk.js",
+    "static/media/back.webp": "/Academy-Online-Education-design/static/media/back.93d3f802b480eeabae07.webp",
+    "static/media/awrapper.webp": "/Academy-Online-Education-design/static/media/awrapper.031ce77a398171427673.webp",
+    "static/media/bg.webp": "/Academy-Online-Education-design/static/media/bg.baa1024a4ae092566a75.webp",
+    "index.html": "/Academy-Online-Education-design/index.html",
+    "main.59716f93.css.map": "/Academy-Online-Education-design/static/css/main.59716f93.css.map",
+    "main.3b1d0211.js.map": "/Academy-Online-Education-design/static/js/main.3b1d0211.js.map",
+    "787.e2ffc826.chunk.js.map": "/Academy-Online-Education-design/static/js/787.e2ffc826.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59716f93.css",
+    "static/js/main.3b1d0211.js"
+  ]
+}
