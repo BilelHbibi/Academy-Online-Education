@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Academy-Online-Education-design/static/css/main.59716f93.css",
-    "main.js": "/Academy-Online-Education-design/static/js/main.48569da4.js",
-    "static/js/787.e2ffc826.chunk.js": "/Academy-Online-Education-design/static/js/787.e2ffc826.chunk.js",
-    "static/media/back.webp": "/Academy-Online-Education-design/static/media/back.93d3f802b480eeabae07.webp",
-    "static/media/awrapper.webp": "/Academy-Online-Education-design/static/media/awrapper.031ce77a398171427673.webp",
-    "static/media/bg.webp": "/Academy-Online-Education-design/static/media/bg.baa1024a4ae092566a75.webp",
-    "index.html": "/Academy-Online-Education-design/index.html",
-    "main.59716f93.css.map": "/Academy-Online-Education-design/static/css/main.59716f93.css.map",
-    "main.48569da4.js.map": "/Academy-Online-Education-design/static/js/main.48569da4.js.map",
-    "787.e2ffc826.chunk.js.map": "/Academy-Online-Education-design/static/js/787.e2ffc826.chunk.js.map"
+    "main.css": "/Academy-Online-Education/static/css/main.b41f7e23.css",
+    "main.js": "/Academy-Online-Education/static/js/main.a53c1837.js",
+    "static/js/787.e2ffc826.chunk.js": "/Academy-Online-Education/static/js/787.e2ffc826.chunk.js",
+    "static/media/back.webp": "/Academy-Online-Education/static/media/back.93d3f802b480eeabae07.webp",
+    "static/media/awrapper.webp": "/Academy-Online-Education/static/media/awrapper.031ce77a398171427673.webp",
+    "static/media/bg.webp": "/Academy-Online-Education/static/media/bg.baa1024a4ae092566a75.webp",
+    "index.html": "/Academy-Online-Education/index.html",
+    "main.b41f7e23.css.map": "/Academy-Online-Education/static/css/main.b41f7e23.css.map",
+    "main.a53c1837.js.map": "/Academy-Online-Education/static/js/main.a53c1837.js.map",
+    "787.e2ffc826.chunk.js.map": "/Academy-Online-Education/static/js/787.e2ffc826.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.59716f93.css",
-    "static/js/main.48569da4.js"
+    "static/css/main.b41f7e23.css",
+    "static/js/main.a53c1837.js"
   ]
 }
