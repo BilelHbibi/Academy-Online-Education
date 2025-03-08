@@ -17,6 +17,7 @@ function App() {
     <Header />
     <Routes>
      <Route path='/' element={<Home />} exact></Route>
+     <Route path='/Academy-Online-Education' element={<Home />} exact></Route>
      <Route path='/about' element={<About />} exact></Route>
      <Route path='/courses' element={<CourseHome />} exact></Route>
      <Route path='/team' element={<Team />} exact></Route>
